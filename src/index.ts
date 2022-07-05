@@ -1,5 +1,6 @@
 /* eslint-disable prefer-rest-params,@typescript-eslint/no-unused-vars */
 import path from "path";
+import process from "process";
 import os from "os";
 
 const LEADING_SLASH_BEFORE_DRIVE_LETTER_REGEXP = /(^\/\w:\/)|(^\/\w:\\)/;
