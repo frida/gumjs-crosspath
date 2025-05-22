@@ -1,3 +1,12 @@
+## [3.0.1](https://github.com/frida/gumjs-crosspath/compare/v3.0.0...v3.0.1) (2025-05-22)
+
+
+### Bug Fixes
+
+* move @types/node to devDependencies ([387bb73](https://github.com/frida/gumjs-crosspath/commit/387bb735d5a34185657c89b29fc46fc382b8a427))
+
+
+
 # [3.0.0](https://github.com/frida/gumjs-crosspath/compare/v2.0.0...v3.0.0) (2022-07-05)
 
 
