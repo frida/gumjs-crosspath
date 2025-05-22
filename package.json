@@ -1,6 +1,6 @@
 {
 	"name": "@frida/crosspath",
-	"version": "3.0.1",
+	"version": "3.0.2",
 	"description": "A wrapper around the path module that always normalizes to POSIX (including converting backslashes to forward slashes)",
 	"publishConfig": {
 		"access": "public"
